@@ -6,7 +6,7 @@
 ・前回提出した「お口の健康シミュレーション」のWebアプリに対し、以下要素を盛り込みました。<br>
 　・Firebase　RealtimeDatabese<br>
 　・Firebase　Storage<br>
-　・TensorflowによるAI物体検出<br>
+　・Tensorflo　CocoSSD（AI物体検出）<br>
 
 ・AIによる口腔診断を実現するために、どうしてもAI解析要素を入れたかったため機械学習について勉強しました。<br>
 ・が、さすがにMLモデル構築は現実敵ではなかったため、すでに事前トレーニング済みのMLモデルで一番簡単に応用できる、TensorflowのJavaScript向けMLモデルであるCocoSSDを利用しました。<br>
