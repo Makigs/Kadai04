@@ -2,7 +2,7 @@
 課題04_Firebase
 
 
-<h3>①課題内容（どんな作品か）</h3>
+<h3>課題内容（どんな作品か）、工夫した点など</h3>
 ・前回提出した「お口の健康シミュレーション」のWebアプリに対し、以下要素を盛り込みました。<br>
 　・Firebase　RealtimeDatabese<br>
 　・Firebase　Storage<br>
